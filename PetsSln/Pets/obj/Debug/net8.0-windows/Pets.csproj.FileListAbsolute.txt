@@ -1,0 +1,16 @@
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\bin\Debug\net8.0-windows\Pets.exe
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\bin\Debug\net8.0-windows\Pets.deps.json
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\bin\Debug\net8.0-windows\Pets.runtimeconfig.json
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\bin\Debug\net8.0-windows\Pets.dll
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\bin\Debug\net8.0-windows\Pets.pdb
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\obj\Debug\net8.0-windows\Pets.Form1.resources
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\obj\Debug\net8.0-windows\Pets.csproj.GenerateResource.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\obj\Debug\net8.0-windows\Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\obj\Debug\net8.0-windows\Pets.AssemblyInfoInputs.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\obj\Debug\net8.0-windows\Pets.AssemblyInfo.cs
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\obj\Debug\net8.0-windows\Pets.csproj.CoreCompileInputs.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\obj\Debug\net8.0-windows\Pets.dll
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\obj\Debug\net8.0-windows\refint\Pets.dll
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\obj\Debug\net8.0-windows\Pets.pdb
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\obj\Debug\net8.0-windows\Pets.genruntimeconfig.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\PetsSln\Pets\obj\Debug\net8.0-windows\ref\Pets.dll

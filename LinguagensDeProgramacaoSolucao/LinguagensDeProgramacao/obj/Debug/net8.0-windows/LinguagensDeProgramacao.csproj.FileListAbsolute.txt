@@ -1,0 +1,16 @@
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\bin\Debug\net8.0-windows\LinguagensDeProgramacao.exe
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\bin\Debug\net8.0-windows\LinguagensDeProgramacao.deps.json
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\bin\Debug\net8.0-windows\LinguagensDeProgramacao.runtimeconfig.json
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\bin\Debug\net8.0-windows\LinguagensDeProgramacao.dll
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\bin\Debug\net8.0-windows\LinguagensDeProgramacao.pdb
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\obj\Debug\net8.0-windows\LinguagensDeProgramacao.Form1.resources
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\obj\Debug\net8.0-windows\LinguagensDeProgramacao.csproj.GenerateResource.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\obj\Debug\net8.0-windows\LinguagensDeProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\obj\Debug\net8.0-windows\LinguagensDeProgramacao.AssemblyInfoInputs.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\obj\Debug\net8.0-windows\LinguagensDeProgramacao.AssemblyInfo.cs
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\obj\Debug\net8.0-windows\LinguagensDeProgramacao.csproj.CoreCompileInputs.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\obj\Debug\net8.0-windows\LinguagensDeProgramacao.dll
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\obj\Debug\net8.0-windows\refint\LinguagensDeProgramacao.dll
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\obj\Debug\net8.0-windows\LinguagensDeProgramacao.pdb
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\obj\Debug\net8.0-windows\LinguagensDeProgramacao.genruntimeconfig.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\LinguagensDeProgramacaoSolucao\LinguagensDeProgramacao\obj\Debug\net8.0-windows\ref\LinguagensDeProgramacao.dll

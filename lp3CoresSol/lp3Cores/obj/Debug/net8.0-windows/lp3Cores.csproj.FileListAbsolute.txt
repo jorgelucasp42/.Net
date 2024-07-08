@@ -1,0 +1,16 @@
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\bin\Debug\net8.0-windows\lp3Cores.exe
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\bin\Debug\net8.0-windows\lp3Cores.deps.json
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\bin\Debug\net8.0-windows\lp3Cores.runtimeconfig.json
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\bin\Debug\net8.0-windows\lp3Cores.dll
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\bin\Debug\net8.0-windows\lp3Cores.pdb
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\obj\Debug\net8.0-windows\lp3Cores.Form1.resources
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\obj\Debug\net8.0-windows\lp3Cores.csproj.GenerateResource.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\obj\Debug\net8.0-windows\lp3Cores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\obj\Debug\net8.0-windows\lp3Cores.AssemblyInfoInputs.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\obj\Debug\net8.0-windows\lp3Cores.AssemblyInfo.cs
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\obj\Debug\net8.0-windows\lp3Cores.csproj.CoreCompileInputs.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\obj\Debug\net8.0-windows\lp3Cores.dll
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\obj\Debug\net8.0-windows\refint\lp3Cores.dll
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\obj\Debug\net8.0-windows\lp3Cores.pdb
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\obj\Debug\net8.0-windows\lp3Cores.genruntimeconfig.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\lp3CoresSol\lp3Cores\obj\Debug\net8.0-windows\ref\lp3Cores.dll

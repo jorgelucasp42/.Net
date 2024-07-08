@@ -1,0 +1,10 @@
+C:\Arquivos\DEV\GitHub\Estudos\.Net\SolQuiosqueDeCursos\QuiosqueDeCursos\bin\Debug\QuiosqueDeCursos.exe.config
+C:\Arquivos\DEV\GitHub\Estudos\.Net\SolQuiosqueDeCursos\QuiosqueDeCursos\bin\Debug\QuiosqueDeCursos.exe
+C:\Arquivos\DEV\GitHub\Estudos\.Net\SolQuiosqueDeCursos\QuiosqueDeCursos\bin\Debug\QuiosqueDeCursos.pdb
+C:\Arquivos\DEV\GitHub\Estudos\.Net\SolQuiosqueDeCursos\QuiosqueDeCursos\obj\Debug\QuiosqueDeCursos.csproj.AssemblyReference.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\SolQuiosqueDeCursos\QuiosqueDeCursos\obj\Debug\QuiosqueDeCursos.Form1.resources
+C:\Arquivos\DEV\GitHub\Estudos\.Net\SolQuiosqueDeCursos\QuiosqueDeCursos\obj\Debug\QuiosqueDeCursos.Properties.Resources.resources
+C:\Arquivos\DEV\GitHub\Estudos\.Net\SolQuiosqueDeCursos\QuiosqueDeCursos\obj\Debug\QuiosqueDeCursos.csproj.GenerateResource.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\SolQuiosqueDeCursos\QuiosqueDeCursos\obj\Debug\QuiosqueDeCursos.csproj.CoreCompileInputs.cache
+C:\Arquivos\DEV\GitHub\Estudos\.Net\SolQuiosqueDeCursos\QuiosqueDeCursos\obj\Debug\QuiosqueDeCursos.exe
+C:\Arquivos\DEV\GitHub\Estudos\.Net\SolQuiosqueDeCursos\QuiosqueDeCursos\obj\Debug\QuiosqueDeCursos.pdb
